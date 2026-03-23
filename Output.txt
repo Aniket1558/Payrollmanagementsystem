@@ -1,0 +1,37 @@
+
+--- Employee Payroll Management ---
+1. Add Employee
+2. View Employee Payroll
+3. View All Employees
+4. Exit
+Enter your choice: 1
+Enter Employee ID: 101
+Enter Name: Hritik
+Enter Designation: Software Engineer
+Enter Basic Salary: 60000
+? Employee Added & Salary Calculated!
+
+--- Employee Payroll Management ---
+1. Add Employee
+2. View Employee Payroll
+3. View All Employees
+4. Exit
+Enter your choice: 2
+Enter Employee ID: 101
+ID: 101, Name: Hritik, Designation: Software Engineer, Net Salary: ?71760.0
+
+--- Employee Payroll Management ---
+1. Add Employee
+2. View Employee Payroll
+3. View All Employees
+4. Exit
+Enter your choice: 3
+ID: 101, Name: Hritik, Designation: Software Engineer, Net Salary: ?71760.0
+
+--- Employee Payroll Management ---
+1. Add Employee
+2. View Employee Payroll
+3. View All Employees
+4. Exit
+Enter your choice: 4
+Exiting...
